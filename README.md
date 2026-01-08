@@ -23,5 +23,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ratnadeveloper&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### <br clear="both">
-<img src="https://raw.githubusercontent.com/ratnadeveloper/ratnadeveloper/output/github-snake.svg" alt="Snake animation" />
+
+
+
+
+
+
+
+![Snake animation](https://raw.githubusercontent.com/ratnadeveloper/ratnadeveloper/output/github-snake.svg#gh-dark-mode-only)
