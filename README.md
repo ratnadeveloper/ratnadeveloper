@@ -30,4 +30,6 @@
 
 
 
-https://raw.githubusercontent.com/ratnadeveloper/ratnadeveloper/output/github-snake.svg
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/ratnadeveloper/ratnadeveloper/output/github-snake.svg)
