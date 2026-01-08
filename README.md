@@ -30,4 +30,4 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/ratnadeveloper/ratnadeveloper/output/github-snake.svg#gh-dark-mode-only)
+https://raw.githubusercontent.com/ratnadeveloper/ratnadeveloper/output/github-snake.svg
